@@ -1,4 +1,8 @@
-### Hello, my name is Vanshika Gupta
+### Hello, my name is Vanshika Gupta.
+
+- Have a look at my repositories and collection, hope you will find it helpful. 💫
+- I'm final year student at VNIT Nagpur 📍
+- I am open to discuss about topics around Machine Learning, Deep Learning and Natural Language Processing.💭  
 
 
 <!--
