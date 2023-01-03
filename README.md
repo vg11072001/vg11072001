@@ -4,6 +4,10 @@
 ### - 📍  I am a final year student at the VNIT Nagpur. 
 ### - 💭 I would be interested in discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
 
+---
+[Linkedin](https://www.linkedin.com/in/vanshikagupta-/) 
+[Kaggle](https://www.kaggle.com/vanshikagupta1136)
+
 
 <!--
 **vg11072001/vg11072001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
