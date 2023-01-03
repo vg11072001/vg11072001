@@ -5,7 +5,9 @@
 ### - 💭 I would be interested in discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
 
 ---
-[Linkedin](https://www.linkedin.com/in/vanshikagupta-/) 
+Connect using
+[Linkedin](https://www.linkedin.com/in/vanshikagupta-/)         
+OR
 [Kaggle](https://www.kaggle.com/vanshikagupta1136)
 
 
