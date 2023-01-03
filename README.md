@@ -1,4 +1,4 @@
-### Hello, my name is Vanshika Gupta.
+![Hello, my name is Vanshika  Nice to meet you  (1)](https://user-images.githubusercontent.com/67424390/210377046-bfbc9207-dd94-4160-ab7a-34d11baba998.png)
 
 - 💫 Have a look at my repositories and collection, hope you will find it helpful. 
 - 📍 I'm final year student at VNIT Nagpur. 
