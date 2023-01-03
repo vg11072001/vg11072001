@@ -6,7 +6,7 @@
 
 ---
 
-#### Connect using
+#### Let's Connect on
 
 ### * [Linkedin](https://www.linkedin.com/in/vanshikagupta-/)         
 
