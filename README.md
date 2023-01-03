@@ -1,8 +1,8 @@
 ![Hello, my name is Vanshika  Nice to meet you  (1)](https://user-images.githubusercontent.com/67424390/210377046-bfbc9207-dd94-4160-ab7a-34d11baba998.png)
 
-## - 💫 Have a look at my repositories and collection, hope you will find it helpful. 
-## - 📍 I'm final year student at VNIT Nagpur. 
-## - 💭 I am open to discuss about topics around Machine Learning, Deep Learning and Natural Language Processing.  
+### - 💫 Check out my repository and collection, I hope you find it useful.
+### - 📍  I am a final year student at the VNIT Nagpur. 
+### - 💭 I would be interested in discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
 
 
 <!--
