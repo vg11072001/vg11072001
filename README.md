@@ -7,8 +7,7 @@
 ---
 
 #### Let's Connect on
-
-### [Linkedin](https://www.linkedin.com/in/vanshikagupta-/)  |  [Kaggle](https://www.kaggle.com/vanshikagupta1136)  |  [Email](mailto:vanshika.arvind.gupta@gmail.com)
+[Linkedin](https://www.linkedin.com/in/vanshikagupta-/)  |  [Kaggle](https://www.kaggle.com/vanshikagupta1136)  |  [Email](mailto:vanshika.arvind.gupta@gmail.com)
 
 
 <!--
