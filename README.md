@@ -1,6 +1,6 @@
 ![Hello, my name is Vanshika  Nice to meet you  (1)](https://user-images.githubusercontent.com/67424390/210377046-bfbc9207-dd94-4160-ab7a-34d11baba998.png)
 
-📍  I am a working professional Data Scientist 
+📍  I am a working professional as Data Scientist 
 
 💭 I am interested in collaborating and discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
 
