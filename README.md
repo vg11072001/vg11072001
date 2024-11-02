@@ -2,7 +2,7 @@
 
 📍  I am a working professional Data Scientist 
 
-💭 I would be interested in collaborating and discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
+💭 I am interested in collaborating and discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
 
 ---
 
