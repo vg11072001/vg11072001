@@ -5,8 +5,6 @@
 
 📍  I am a working professional as Data Scientist 
 
-💭 I am interested in collaborating and discussing topics related to Machine Learning, Deep Learning, and Natural Language Processing.    
-
 ---
 
 #### Let's Connect on
