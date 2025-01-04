@@ -11,7 +11,7 @@ I'm Vanshika, nice to have you here!
 * Fully leveraging coding and problem-solving in Machine Learning, Deep Learning, and Transformer pipelines.
 
 
-Open to exchange worries like *"Why is this code taking too long to run?"*.
+Open to exchange worries like *"Why is this model code taking too long to train?"*.
 
 ---
 
