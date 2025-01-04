@@ -1,4 +1,7 @@
-![Hello, my name is Vanshika  Nice to meet you  (1)](https://user-images.githubusercontent.com/67424390/210377046-bfbc9207-dd94-4160-ab7a-34d11baba998.png)
+
+<!--![LinkedIn cover - 2](https://github.com/user-attachments/assets/49f58cd3-5abd-4381-b290-43ebb3cf9c70) -->
+![LinkedIn cover - 1](https://github.com/user-attachments/assets/ad21f8da-c5fa-4f93-be2e-becaf7e41128)
+
 
 📍  I am a working professional as Data Scientist 
 
