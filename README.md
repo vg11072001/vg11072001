@@ -2,8 +2,16 @@
 <!--![LinkedIn cover - 2](https://github.com/user-attachments/assets/49f58cd3-5abd-4381-b290-43ebb3cf9c70) -->
 ![LinkedIn cover - 1](https://github.com/user-attachments/assets/ad21f8da-c5fa-4f93-be2e-becaf7e41128)
 
+> *Currenly debugging and documenting the bottlenecks in data/model to efficiently train/fine-tune by leveraging the knowledge base outlined below within the realm of AI*
 
-📍  I am a working professional as Data Scientist 
+## Hi there! 👋  
+I'm Vanshika, nice to have you here! 
+
+* **Data Scientist** with professional experience.
+* Fully leveraging coding and problem-solving in Machine Learning, Deep Learning, and Transformer pipelines.
+
+
+Open to exchange worries like *"Why is this code taking too long to run?"*.
 
 ---
 
