@@ -7,7 +7,7 @@
 ## Hi there! 👋  
 I'm Vanshika, nice to have you here! 
 
-* **Data Scientist** with professional experience.
+* I'm a **Data Scientist**. 
 * Fully leveraging coding and problem-solving in Machine Learning, Deep Learning, and Transformer pipelines.
 
 
