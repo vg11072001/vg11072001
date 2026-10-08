@@ -3,14 +3,14 @@
 
 > *Currently debugging and documenting the bottlenecks in data/model to efficiently train/fine-tune by leveraging the knowledge base outlined below within the realm of AI*
 
-## Hi there! 👋  
+## Hi there
 I'm Vanshika, nice to have you here! 
 
 * I'm a **Data Scientist**. 
 * Leveraging coding and problem-solving in Machine Learning, Deep Learning, and Transformer pipelines.
 
 
-Open to exchange worries like *"Why is this model code taking too long to train?"*.
+Open to exchange findings on *"Why is this model taking too long to train?"*.
 
 ---
 
